@@ -15,7 +15,7 @@ public class ChessBoard {
 /**
  *  The initializeBoard method initalizes the board and adds all the pieces of black
  *  and white to the board.
- * 
+ * s
  * This method is always called by main as it is crucial to start the game. This method
  * is a void method and does not have any return value.
  * i
